@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-js",
+  "version": "1.0.0",
+  "description": "ejercicio 1",
+  "main": "index.js",
+  "scripts": {
+  "mensaje": "echo 'Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo'"
+  },
+  "author": "Roxsana Velasquez",
+  "license": "ISC"
+}
